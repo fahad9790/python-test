@@ -1,2 +1,1 @@
-# python-test
-Assignment Red Carpet
+# File
